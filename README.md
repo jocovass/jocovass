@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Jozsef Vass' github stats](https://github-readme-stats.vercel.app/api?username=Wo0dyStars&theme=tokyonight)](https://github.com/jocovass/github-readme-stats )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wo0dyStars&layout=compact)](https://github.com/jocovass/github-readme-stats)
+[![Jozsef Vass' github stats](https://github-readme-stats.vercel.app/api?username=jocovass&theme=tokyonight)](https://github.com/jocovass/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocovass&layout=compact)](https://github.com/jocovass/github-readme-stats)
