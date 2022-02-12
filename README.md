@@ -1,7 +1,7 @@
 ### Hi there, I'm Jozsef Vass 👋
 
 - 🔭 I’m currently working as a Front End developer
-- 🌱 Striving to get bettwe every day
+- 🌱 Striving to get better every day
 - 📫 You can reach me via email at `joco.codes@gmail.com`
 
 <!--
