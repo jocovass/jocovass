@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![Jozsef Vass' github stats](https://github-readme-stats.vercel.app/api?username=jocovass&theme=tokyonight)](https://github.com/jocovass/github-readme-stats )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocovass&layout=compact)](https://github.com/jocovass/github-readme-stats)
+<!-- [![Jozsef Vass' github stats](https://github-readme-stats.vercel.app/api?username=jocovass&theme=tokyonight)](https://github.com/jocovass/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocovass&layout=compact)](https://github.com/jocovass/github-readme-stats) -->
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jocovass&count_private=true&include_all_commits=true&theme=onedark" alt="jococodes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocovass&layout=compact&theme=onedark&langs_count=15" />
+</div>
