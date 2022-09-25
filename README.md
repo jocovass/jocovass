@@ -1,10 +1,7 @@
 <h1>Hi there, I'm Jozsef Vass 👋</h1>
 
-<p>🔭 I’m currently working as a Front End developer</p>
-<p>🌱 Striving to get better every day</p>
-<p>📫 You can reach me via email at `joco.codes@gmail.com`</p>
-
-<br />
+<p>👨‍💻 I am a Software Engineer at Connex One</p>
+<p>📫 You can reach me via email at `joco.udv@gmail.com`</p>
 <br />
 <br />
 
